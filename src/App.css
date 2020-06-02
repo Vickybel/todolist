@@ -1,0 +1,43 @@
+.separate{
+  padding-top: 15px;
+}
+
+.unique-title{
+  padding-left: 435px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+}
+
+.fa-times{
+  float: right;
+  color:black;
+}
+
+.hoverChange:hover{
+  color:#dc3545;
+}
+
+.list-group-item{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 10px 10px 1px darkgrey;
+  width: 600px;
+  margin-left: 200px;
+}
+
+.formcontrol{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 10px 10px 1px darkgrey;
+  height: 50px;
+  width: 600px;
+  margin-left: 200px;
+}
+
+.btn-outline-danger{
+  margin-left: 320px;
+}
+
+.btn:focus{
+  box-shadow: none !important;
+}
