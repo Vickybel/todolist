@@ -10,7 +10,7 @@ class MyTodoList extends Component {
   }
 
   getMyUser() {
-    fetch('https://assets.breatheco.de/apis/fake/todos/user/josemanuelb')
+    fetch('https://assets.breatheco.de/apis/fake/todos/user/victoria')
       .then(response => {
         if (response.ok === true) {
           this.getallMyTodos()
